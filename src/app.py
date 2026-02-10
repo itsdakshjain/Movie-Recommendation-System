@@ -207,7 +207,7 @@ with st.sidebar:
         goto_home()
 
     st.markdown("---")
-    st.markdown("###  Home Feed (only home)")
+    st.markdown("###  Home Feed")
     home_category = st.selectbox(
         "Category",
         ["trending", "popular", "top_rated", "now_playing", "upcoming"],
