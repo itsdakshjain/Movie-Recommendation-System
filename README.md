@@ -4,8 +4,8 @@
 This project is a movie recommendation engine that suggests films based on content similarity. It features a decoupled architecture with a FastAPI backend and a Streamlit frontend, both deployed in the cloud.
 
 ##  Live Links
-* **Frontend (UI):** [![Streamlit](https://img.shields.io/badge/Streamlit-%23FF4B4B.svg?style=flat&logo=streamlit&logoColor=white)](https://itsdakshjain-movie-recommendation-system.streamlit.app/)
-* **Backend (API):** [![Render](https://img.shields.io/badge/Render-%23430098.svg?style=flat&logo=render&logoColor=white)](https://movie-recommendation-system-gci4.onrender.com/docs)
+* **Frontend (UI):**&nbsp;[![Streamlit](https://img.shields.io/badge/Streamlit-%23FF4B4B.svg?style=flat&logo=streamlit&logoColor=white)](https://itsdakshjain-movie-recommendation-system.streamlit.app/)
+* **Backend (API):** &nbsp; [![Render](https://img.shields.io/badge/Render-%23430098.svg?style=flat&logo=render&logoColor=white)](https://movie-recommendation-system-gci4.onrender.com/docs)
 
 
 ##  Architecture
@@ -88,7 +88,8 @@ streamlit run src/app.py
 ---
 
 ## License
-This project is licensed under the **MIT License**—a permissive license that allows for personal and commercial use while providing a disclaimer of warranty. See the [LICENSE](LICENSE) file for the full text.
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+> This project is licensed under the **MIT License**—a permissive license that allows for personal and commercial use while providing a disclaimer of warranty. See the [LICENSE](LICENSE) file for the full text.
 
 ## Contact & Credits
 **Developer:** Daksh Jain  
